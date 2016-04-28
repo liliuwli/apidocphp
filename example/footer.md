@@ -1,0 +1,1 @@
+<h1>例子信息源于文件 footer.md</h1><br><p>文件文本来自 &quot;footer.md&quot;.</p><br><h2>如何加载</h2><br><p>如网页头所示</p><br>
